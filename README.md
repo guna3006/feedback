@@ -1,5 +1,3 @@
-#This app use Nest.js and React.js
-
 ## Steps to run this app
 1. Launch terminal
 2. Go to the folder of <b>app</b> `cd app`, run `npm install` to install the package and dependencies for Nest.js
