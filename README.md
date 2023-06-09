@@ -9,7 +9,7 @@
 
 ## Flow
 1. After 3 seconds, a pop-up window will appear asking you to fill out the feedback form.
-2. Replace the API_URL depending on preferred settings in the <b>.env</b> file.
+2. Replace the `API_URL` depending on preferred settings in the <b>.env</b> file.
 3. For testing, can run `npm run test:app` and `npm run test:frontend` in the root directory
 
 # Cheers!
